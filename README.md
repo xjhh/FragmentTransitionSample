@@ -1,4 +1,3 @@
 # FragmentTransitionSample
-Sample application demonstrating Fragment transitions with a shared element.
+Fragment 共享元素跳转动画
 
-[See the full article here](https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb).
